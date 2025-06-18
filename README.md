@@ -11,9 +11,10 @@
   <a href="https://github.com/AshvinRamgo">
     <img src="https://img.shields.io/badge/GitHub-AshvinRamgo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-In%20Progress-F9A03C?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <a href="https://ashvin-ramgo-web-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Site-Visit%20Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </p>
 
 ---
