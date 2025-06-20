@@ -35,7 +35,7 @@
 - **QA Automation Developer @ Zoocasa** *(Fall 2024)*  
 
 ## 🤝 Club & Leadership Experiences
-- **Director Lead (Incoming) @ UW Blueprint**  
+- **Director Lead @ UW Blueprint**  *(Summer 2025 - Present)*  
 - **Internal Director @ UW Blueprint** *(Winter 2025)*  
 - **President @ Naparima Interact Club** *(2021–2023)*  
 
