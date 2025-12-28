@@ -31,8 +31,8 @@
 ---
 
 ## 💼 Internships
-- **QA Analyst Intern @ Propel Holdings** *(Spring 2025)*  
-- **QA Automation Developer @ Zoocasa** *(Fall 2024)*  
+- **Software Analyst Intern @ Propel Holdings** *(Spring 2025)*  
+- **Automation Developer @ Zoocasa** *(Fall 2024)*  
 
 ## 🤝 Club & Leadership Experiences
 - **Director Lead @ UW Blueprint**  *(Summer 2025 - Present)*  
